@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/web-resume/static/css/main.707adb82.chunk.css",
-    "main.js": "/web-resume/static/js/main.8e8bcf87.chunk.js",
-    "main.js.map": "/web-resume/static/js/main.8e8bcf87.chunk.js.map",
-    "runtime-main.js": "/web-resume/static/js/runtime-main.115555b2.js",
-    "runtime-main.js.map": "/web-resume/static/js/runtime-main.115555b2.js.map",
-    "static/js/2.e0b199e2.chunk.js": "/web-resume/static/js/2.e0b199e2.chunk.js",
-    "static/js/2.e0b199e2.chunk.js.map": "/web-resume/static/js/2.e0b199e2.chunk.js.map",
-    "index.html": "/web-resume/index.html",
-    "precache-manifest.f0d904e8e6943c7f8471b739de0e5186.js": "/web-resume/precache-manifest.f0d904e8e6943c7f8471b739de0e5186.js",
-    "service-worker.js": "/web-resume/service-worker.js",
-    "static/css/main.707adb82.chunk.css.map": "/web-resume/static/css/main.707adb82.chunk.css.map",
-    "static/js/2.e0b199e2.chunk.js.LICENSE.txt": "/web-resume/static/js/2.e0b199e2.chunk.js.LICENSE.txt",
-    "static/media/CrowdCoin.png": "/web-resume/static/media/CrowdCoin.efa1dab4.png",
-    "static/media/covid-19.png": "/web-resume/static/media/covid-19.82916689.png",
-    "static/media/lottery.png": "/web-resume/static/media/lottery.f420d144.png",
-    "static/media/photo.jpeg": "/web-resume/static/media/photo.8e6795ab.jpeg",
-    "static/media/youtube.png": "/web-resume/static/media/youtube.b7b3afce.png"
+    "main.css": "/about/static/css/main.707adb82.chunk.css",
+    "main.js": "/about/static/js/main.f0911d49.chunk.js",
+    "main.js.map": "/about/static/js/main.f0911d49.chunk.js.map",
+    "runtime-main.js": "/about/static/js/runtime-main.67ca9416.js",
+    "runtime-main.js.map": "/about/static/js/runtime-main.67ca9416.js.map",
+    "static/js/2.fbce5774.chunk.js": "/about/static/js/2.fbce5774.chunk.js",
+    "static/js/2.fbce5774.chunk.js.map": "/about/static/js/2.fbce5774.chunk.js.map",
+    "index.html": "/about/index.html",
+    "precache-manifest.5fdfafcca752563af62aae7ee54bebad.js": "/about/precache-manifest.5fdfafcca752563af62aae7ee54bebad.js",
+    "service-worker.js": "/about/service-worker.js",
+    "static/css/main.707adb82.chunk.css.map": "/about/static/css/main.707adb82.chunk.css.map",
+    "static/js/2.fbce5774.chunk.js.LICENSE.txt": "/about/static/js/2.fbce5774.chunk.js.LICENSE.txt",
+    "static/media/CrowdCoin.png": "/about/static/media/CrowdCoin.efa1dab4.png",
+    "static/media/covid-19.png": "/about/static/media/covid-19.82916689.png",
+    "static/media/lottery.png": "/about/static/media/lottery.f420d144.png",
+    "static/media/photo.jpeg": "/about/static/media/photo.8e6795ab.jpeg",
+    "static/media/youtube.png": "/about/static/media/youtube.b7b3afce.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.115555b2.js",
-    "static/js/2.e0b199e2.chunk.js",
+    "static/js/runtime-main.67ca9416.js",
+    "static/js/2.fbce5774.chunk.js",
     "static/css/main.707adb82.chunk.css",
-    "static/js/main.8e8bcf87.chunk.js"
+    "static/js/main.f0911d49.chunk.js"
   ]
 }
